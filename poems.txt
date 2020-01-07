@@ -1,8 +1,13 @@
   There is my neighbor
-She is running for office
+ I AM RUINING MY DAY
   Finally, she waves
 
 
          Haiku are easy
+<<<<<<< HEAD
 This is seven syllables
       It's five seven five
+=======
+BUT MERGE CONFLICTS WILL NOT BE
+       CAN YOU CORRECT ME?
+>>>>>>> secrets
